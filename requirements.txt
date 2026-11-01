@@ -1,0 +1,14 @@
+# Core Machine Learning & Cheminformatics
+torch
+torch_geometric
+rdkit
+pandas
+numpy
+scikit-learn
+scipy
+
+# Web API & Server
+fastapi
+uvicorn[standard]
+requests
+pydantic

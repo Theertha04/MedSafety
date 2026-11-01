@@ -1,0 +1,646 @@
+drug_id,name
+CID000002173,Ampicillin
+CID000003345,Fentanyl
+CID000005206,Sevoflurane
+CID000009433,Aminophylline
+CID000003929,Linezolid
+CID000150610,Ertapenem
+CID000001302,Naproxen
+CID000005064,Ribavirin
+CID000005267,Buspirone
+CID000010631,Medroxyprogesterone
+CID000004601,Orphenadrine
+CID000005376,Tamoxifen
+CID000005090,Rofecoxib
+CID000005556,Triazolam
+CID000004946,Propranolol
+CID000130881,Olmesartan Medoxomil
+CID000005391,Temazepam
+CID000005584,Trimipramine
+CID000002802,Clonazepam
+CID005381226,Sirolimus
+CID000004212,Mitoxantrone
+CID000060953,Capecitabine
+CID000000596,Cytarabine
+CID000005726,Zidovudine
+CID000002522,Calcipotriol
+CID000003308,Etodolac
+CID000003405,Fluvastatin
+CID000060795,Aripiprazole
+CID000003446,Gabapentin
+CID004183806,"Misoprostol, 1% in cellulose"
+CID000004107,Methocarbamol
+CID000004917,Prochlorperazine
+CID000003161,CID 3161
+CID000071329,Dofetilide
+CID000003823,Ketoconazole
+CID000003911,Leuprelin Acetate
+CID000054454,Simvastatin
+CID000002156,HMS1361O16
+CID000004411,Corgard;Solgol
+CID000002907,Cyclophosphamide
+CID000004192,Midazolam
+CID000083786,
+CID000003348,Fexofenadine
+CID000000838,(+-)-Adrenaline
+CID000002617,F1443-7605
+CID000001986,Acetazolamide
+CID000006691,
+CID000004920,Progesterone
+CID000005478,(+-)-Timolol
+CID006398525,CID 6398525
+CID000003937,Lisinopril racemic mixture
+CID005311048,Dichloromethanediamine
+CID000004158,Methylphenidate
+CID000005523,CHEBI:75722
+CID000003696,Imipramine
+CID000004112,"Methotrexate, (A+-)-"
+CID000003899,Leflunomide
+CID000004473,HMS1361F11
+CID000000853,(+-)-Thyroxine
+CID005311181,Iloprost
+CID000032797,Halobetasol
+CID000059708,Etiracetam
+CID000003826,Ketorolac
+CID000003143,Docetaxol
+CID000004736,Talwin
+CID000005038,Ramipril
+CID000005039,Ranisen
+CID000005005,Quinapril
+CID005493444,Aliskiren
+CID000003261,Estazolam
+CID000003746,Atrovent Hfa
+CID000028112,Lithium aluminum hydride
+CID000002162,Amlodipine
+CID000003386,Fluoxetine
+CID000004259,Moxifloxacin
+CID000119607,Valdecoxib
+CID000087177,Maltulose
+CID000003957,Loratadine
+CID000004509,Furantoin
+CID000004595,Ondansetron
+CID000104865,Bosentan
+CID000002666,Cephalexin
+CID000003007,Amphetamine
+CID000004506,Nitrazepam
+CID000003559,Haloperidol
+CID000004909,Primidone
+CID000060831,L001459
+CID000002520,Verapamil
+CID000060852,Ibandronate
+CID000060854,Ziprasidone
+CID000004889,Pravastatin
+CID000003958,Lorazepam
+CID005353980,CID 5353980
+CID000005505,Tolbutamide
+CID000216326,Lenalidomide
+CID000038904,"Azane;cyclobutane-1,1-dicarboxylic acid;platinum"
+CID005281007,CID 5281007
+CID000004485,Nifedipine
+CID000004539,Norfloxacin
+CID000005245,Risedronate
+CID000176870,Erlotinib
+CID000039765,Vecuronium
+CID000041774,Acarbose
+CID000667490,6-Mercaptopurine
+CID000004635,Oxycodone
+CID000065999,Telmisartan
+CID000005656,Venlafaxine
+CID000005650,Valsartan
+CID000005651,cid_21966304
+CID000004510,Nitroglycerin
+CID000002554,Carbamazepine
+CID000005717,Zafirlukast
+CID000002650,"Ceftazidime, Antibiotic for Culture Media Use Only"
+CID000003222,"(R,S,S)-enalapril"
+CID000003749,Irbesartan
+CID000004201,Minoxidil
+CID000003440,Furosemide
+CID005481350,Tenofovir Disoproxil
+CID000002909,Cyclosporine;Ciclosporin
+CID000057469,Imiquimod
+CID000003075,"2-[3-Acetyloxy-2-(4-methoxyphenyl)-4-oxo-2,3-dihydro-1,5-benzothiazepin-5-yl]ethyl-dimethylazanium"
+CID000027661,Isosorbide Mononitrate
+CID000005647,
+CID000123620,B.Mometason
+CID000000271,Calcium Cation
+CID000002405,Bisoprolol
+CID000003016,Diazepam
+CID000004189,Miconazole
+CID000003750,Irinotecan
+CID000004666,Paclitaxel
+CID000004173,Metronidazole
+CID000005538,Tretinoin
+CID000004159,6-alpha-Methylprednisolone
+CID005311297,Montelukast
+CID000001065,Quinine
+CID000002576,Carisoprodol
+CID000002541,Candesartan
+CID000002585,Carvedilol
+CID000004543,Nortriptyline
+CID000004599,Orlistat
+CID000019090,Megestrol
+CID000003640,"11,17,21-Trihydroxypregn-4-ene-3,20-dione"
+CID000005512,Tolterodine
+CID000005533,Trazodone
+CID000077999,Rosiglitazone
+CID000002022,CID 2022
+CID000002092,Alfuzosin
+CID000000206,Hexose
+CID000003793,Itrizole
+CID000036339,Ethnor
+CID000000450,Estradiol
+CID000002678,Cetirizine
+CID000004927,Promethazine
+CID000002756,Cimetidine
+CID000002803,Clonidine
+CID000005672,Vinblastine
+CID000060835,Duloxetine
+CID000005530,Tranylcypromine
+CID000003657,Hydroxyurea
+CID000003890,15(S)-Latanoprost
+CID004475485,Rosuvastatin EP Impurity L
+CID000002088,Alendronic Acid
+CID000156419,Cinacalcet
+CID000004034,Meclizine
+CID000004451,CHEBI:181991
+CID000002891,"cobalt(2+);[5-(5,6-dimethylbenzimidazol-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] 1-[3-[2,13,18-tris(2-amino-2-oxoethyl)-7,12,17-tris(3-amino-3-oxopropyl)-3,5,8,8,13,15,18,19-octamethyl-2,7,12,17-tetrahydro-1H-corrin-21-id-3-yl]propanoylamino]propan-2-yl hydrogen phosphate;cyanide"
+CID000060865,(E)-Olopatadine
+CID000004893,Prazosin
+CID000005358,Sumatriptan
+CID000004894,"11,17,21-Trihydroxypregna-1,4-diene-3,20-dione"
+CID000005234,Sodium Chloride
+CID000002578,Carmustine
+CID006447131,C43H68ClNO11
+CID000002118,Alprazolam
+CID000003715,Indomethacin
+CID000004264,DB-041827
+CID000003062,Lanicor
+CID000003825,Ketoprofen
+CID000004052,
+CID000002487,Butorphanol
+CID000216239,Sorafenib
+CID000003152,Donepezil
+CID000027686,Cromoglicic Acid
+CID000004723,Pemoline
+CID000003883,Lansoprazole
+CID000003157,Doxazosin
+CID000003154,Dorzolamide
+CID000000214,8-iso Prostaglandin E1
+CID000003003,Celestone
+CID000003158,Doxepin
+CID000003333,Felodipine
+CID006398970,Cefdinir (Omnicef)
+CID000003648,"4,5alpha-Epoxy-3-hydroxy-17-methylmorphinan-6-one"
+CID000000772,Enoxaparin
+CID003081884,Glatiramer (acetate)
+CID000005544,Mycolog
+CID000003365,Fluconazole
+CID000060147,(+)-Tamsulosin
+CID000002609,Cefaclor
+CID000004594,Omeprazole
+CID000002656,"7-[[2-(2-Amino-1,3-thiazol-4-yl)-2-methoxyiminoacetyl]amino]-3-[(2-methyl-6-oxido-5-oxo-1,2,4-triazin-3-yl)sulfanylmethyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate"
+CID000002662,Celecoxib
+CID000003661,Atropine
+CID000004419,Nalbuphine
+CID000004679,Pantoprazole
+CID000005210,Sibutramine
+CID000005203,Sertraline
+CID000003043,
+CID000124087,Desloratadine
+CID000003516,Guaifenesin
+CID000003510,(3H)granisetron
+CID000005040,(RS)-rapamycin
+CID000152945,Dutasteride?
+CID000003404,Fluvoxamine
+CID000003324,Famciclovir
+CID000003325,Gastro
+CID000004900,"17,21-Dihydroxypregna-1,4-diene-3,11,20-trione"
+CID000004856,CID 4856
+CID000122316,Racemic rasagiline
+CID000004054,Memantine
+CID000003255,Erythromycin
+CID000005077,Rivastigmine
+CID000005095,Ropinirole
+CID000003878,Lamotrigine
+CID000004058,Meperidine
+CID000002244,Aspirin
+CID000054374,H-DL-Phe-DL-Cys(1)-DL-Phe-DL-Trp-DL-Lys-DL-xiThr-DL-Cys(1)-Thr-ol
+CID000060843,CID 60843
+CID000160051,UNII-P4SG24WI5Q
+CID000002771,Citalopram
+CID000005735,Zopiclone
+CID000003279,Ethambutol
+CID005311039,Gaspofungin Impurity F
+CID000004253,Morphine
+CID000004497,Nimodipine
+CID004659568,Entacapone
+CID000005732,Zolpidem
+CID000004499,Nisoldipine
+CID000062924,Milveterol+Fluticasone
+CID000000453,Hexitol
+CID000000159,Alprostadil
+CID000005035,Raloxifene
+CID000163742,Fondaparinux
+CID000003419,4-Cyclohexyl-1-[2-[(2-methyl-1-propanoyloxypropoxy)-(4-phenylbutyl)phosphoryl]acetyl]pyrrolidine-2-carboxylate
+CID000443871,D88158
+CID000002800,Clomiphene
+CID000002806,(RS)-Clopidogrel
+CID000005379,Gatifloxacin
+CID000054688,Dirithromycin
+CID000012536,Budesonide
+CID000123606,Almotriptan
+CID000004463,Nevirapine
+CID000005487,Tizanidine
+CID000036811,Dobutamine
+CID000005734,Zonisamide
+CID000003463,Gemfibrozil
+CID000004583,Ofloxacin
+CID000000598,Mercaptoethanesulfonic acid
+CID000002284,Baclofen
+CID000005029,Rabeprazole
+CID000003639,Hydrochlorothiazide
+CID003085017,Sevelamer (INN)
+CID005281104,Paricalcitol
+CID000004829,Pioglitazone
+CID000003385,5-Fluorouracil
+CID000060198,Exemestane
+CID000005195,(+-)-Selegiline
+CID000003203,Rac-Efavirenz
+CID000003877,Mls003373964
+CID000003954,Loperamide(1+)
+CID000002153,Theophylline
+CID000077993,Eletriptan
+CID000002732,Chlorthalidone
+CID000005155,d4T (Stavudine)
+CID000005152,Salmeterol
+CID003468412,Amphotericin B
+CID000005645,Ursodiol
+CID000071616,Voriconazole
+CID000074989,Loperamide
+CID000003676,Lidocaine
+CID000003367,Fludarabine Base
+CID000003672,"Ibuprofen, (+-)-"
+CID000003734,Bracco 15000
+CID000003736,Iopromide
+CID000003730,Iohexol
+CID000002726,Chlorpromazine
+CID000003393,Flurazepam
+CID000004999,Quazepam
+CID005329102,Sunitinib
+CID000004547,Repaglinide
+CID000004691,Paroxetine
+CID000002471,Bumetanide
+CID000003305,Etidronic Acid
+CID000002631,"3-(Acetyloxymethyl)-7-[[2-(2-amino-1,3-thiazol-4-yl)-2-methoxyiminoacetyl]amino]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate"
+CID000003410,Formoterol
+CID000003449,Galantamin
+CID000002083,Salbutamol
+CID000001690,Doxorubicin (Adriamycin) HCl
+CID000005731,Sumatriptan
+CID000004046,Mefloquine
+CID000001972,Nystatin
+CID000002171,Amoxicillin
+CID000003403,Fluvastatin
+CID000005746,Mitomycin C
+CID000005978,Vincristine
+CID000000444,Bupropion
+CID000153941,CID 153941
+CID000004075,5-Aminosalicylic Acid
+CID000003675,Phenelzine
+CID000004585,CID 4585
+CID000005078,Rizatriptan
+CID000041693,Sufentanil
+CID000041781,Torasemide
+CID000003869,Labetalol
+CID000005372,"Tacrolimus-13C,D2"
+CID000003961,Losartan
+CID000213039,Darunavir
+CID000004991,Pyridostigmine
+CID000004091,Metformin
+CID000005496,Tobracin
+CID000001117,Sulfate Ion
+CID000005076,Rifampin
+CID000003962,Lovastatin
+CID000003355,"[2,5-Bis(2,2,2-trifluoroethoxy)benzoyl]-(piperidin-2-ylmethyl)azanium"
+CID000002719,Chloroquine
+CID000002712,Chlordiazepoxide
+CID000002713,Chlorohexidine
+CID000657298,Propylthiouracil
+CID000091270,Moexipril
+CID000004200,
+CID000005412,
+CID000042113,Desflurane
+CID000003108,Dipyridamole
+CID000002250,Atorvastatin EP Impurity B
+CID000170361,Lurasidone
+CID000002265,Azathioprine
+CID000002801,Clomipramine
+CID000034312,Oxcarbazepine
+CID000072054,(+-)-Darifenacin
+CID000002749,Ciclopirox
+CID000004168,Metoclopramide
+CID000002720,Chlorothiazide
+CID000154059,Solifenacin
+CID000005394,Temozolomide
+CID000004634,Oxybutynin
+CID000002764,Ciprofloxacin
+CID000000942,Nicotine
+CID000002160,Amitriptyline
+CID000004211,Mitotane
+CID000004170,Metolazone
+CID000004171,Metoprolol
+CID000002550,1-(2-Methyl-3-sulfanylpropanoyl)proline
+CID000004885,Pramipexole
+CID000004616,Oxazepam
+CID000004614,Oxaprozin
+CID000003042,Dicyclomine
+CID000005212,CID 5212
+CID000004609,Oxaliplatin (Eloxatin)
+CID000054547,Cefdinir
+CID000001206,DL-methamphetamine
+CID000004603,Oseltamivir
+CID005487301,
+CID000047725,Triptorelin
+CID000125017,Desvenlafaxine
+CID000004138,Alpha-methyldopa
+CID000005719,Zaleplon
+CID000005514,Tolterodine
+CID000003394,Flurbiprofen
+CID000002311,Enalapril
+CID000003148,Anzemet
+CID000147912,Posaconazole
+CID000001775,Phenytoin
+CID000003767,Isoniazid
+CID000002658,3-(Carbamoyloxymethyl)-7-[[2-(furan-2-yl)-2-methoxyiminoacetyl]amino]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate
+CID000000861,DL-Triiodothyronine
+CID000002462,Respules
+CID000125889,"Pregabalin, (R)-"
+CID000104741,Fulvestrant
+CID000056339,Fosphenytoin
+CID000003032,Arthrotec
+CID000002187,Anastrozole
+CID000002267,Azelastine
+CID000001546,Cladribine
+CID000002249,Atenolol
+CID005311082,deamino-Cys(1)-N(2)hArg-Gly-Asp-Trp-Pro-Cys(1)-(2)
+CID000003488,Glibenclamide
+CID003002190,Telithromycin
+CID000002951,Dantrolene(1-)
+CID000004740,Pentoxifylline
+CID000005253,Sotalol
+CID000003249,Npc67059
+CID000003690,Ifosfamide
+CID000005572,Trihexyphenidyl
+CID000002955,Dapsone
+CID000002818,
+CID000003379,Fluticasone
+CID000004911,Probenecid
+CID000005408,Testosterone
+CID000002895,Cyclobenzaprine
+CID000068740,Zoledronic Acid
+CID000008953,CID 8953
+CID000051263,Alfentanil
+CID000002435,Brimonidine
+CID000002812,Clotrimazole
+CID000002524,Calcitriol
+CID000003706,Lopinavir
+CID000060871,Adefovir Dipivoxil
+CID000004943,Propofol
+CID000003478,Glipizide
+CID000005578,Trimethoprim
+CID000060815,Remifentanil
+CID000005401,Terazosin
+CID000003652,Hydroxychloroquine
+CID000000581,N-Acetyl-DL-cysteine
+CID000068844,Brinzolamide
+CID005282226,Travoprost
+CID000004409,Nabumetone
+CID000004812,Phytonadione
+CID000002733,Chlorzoxazone
+CID000003310,Etoposide
+CID000005184,Scopolamine
+CID000005073,Risperidone
+CID000003350,Fludrocortisone
+CID000093860,"Bortezomib, (1S,2R)-"
+CID000064147,
+CID000003658,Hydroxyzine
+CID006918453,Ridauran
+CID005493381,
+CID000005291,Imatinib
+CID000150311,Ezetimibe
+CID000002978,Dronabinol
+CID000003339,Fenofibrate
+CID000002476,Buprenorphine
+CID000002308,Clobetasol
+CID000000143,
+CID000000937,Nicotinate
+CID000002786,Clindamycin
+CID000005402,Terbinafine
+CID000057537,Rotigotine
+CID000001071,9-cis Retinol
+CID000004513,Nizatidine
+CID000005596,Trosec
+CID000016231,Amiloride
+CID004479097,"cobalt;[5-(5,6-dimethylbenzimidazol-1-yl)-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl] 1-[3-[2,13,18-tris(2-amino-2-oxoethyl)-7,12,17-tris(3-amino-3-oxopropyl)-3,5,8,8,13,15,18,19-octamethyl-2,7,12,17-tetrahydro-1H-corrin-21-id-3-yl]propanoylamino]propan-2-yl phosphate;hydrate"
+CID000054808,Loteprednol
+CID000000191,Adenosine
+CID000002477,Buspirone
+CID000003066,Dihydroegotamine
+CID000003008,(+-)-3-Methoxy-17-methylmorphinan
+CID000060754,Omniscan
+CID000002676,Cerivastatin
+CID000151165,
+CID000054841,Atomoxetine
+CID000004675,Pancuronium
+CID000003168,Droperidol
+CID000003476,Griseofulvin
+CID000004536,Norethindrone
+CID000004873,Potassium Chloride
+CID000004205,Mirtazapine
+CID000005002,Quetiapine
+CID000002474,Bupivacaine (USAN:INN:BAN)
+CID000003121,Valproic Acid
+CID000004730,"3,3-Dimethyl-7-oxo-6-[(2-phenoxyacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate"
+CID000004845,Pirbuterol
+CID000003467,Gentamicin
+CID000000815,Kanamycin
+CID000003763,Isoflurane
+CID000004236,Modafinil
+CID005282044,CID 5282044
+CID000504578,"(2S,3S,4R,5R,6R)-5-amino-6-[(2R,3S,4R,5S)-5-[(1R,2S,3R,6R)-3-amino-6-[(1S,2R,3R,4R,5R)-2-amino-5-(aminomethyl)-3,4-dihydroxycyclohexyl]oxy-2-hydroxycyclohexyl]oxy-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]oxy-2-(aminomethyl)oxane-3,4-diol"
+CID005362070,CID 5362070
+CID000003902,Letrozole
+CID000003780,Isosorbide dinitrate mixture
+CID000065027,CID 65027
+CID005362420,Visudyne
+CID000056959,Ranolazine
+CID000444013,Gadoversetamide
+CID000009052,CID 9052
+CID000002269,Clarithromycin
+CID000110635,Tadalafil
+CID000004044,Mefenamic Acid
+CID000005472,Ticlopidine
+CID000001971,Abacavir
+CID000005426,Thalidomide
+CID000003454,CID 3454
+CID000004449,Nefazodone
+CID000072467,Daptomycin
+CID000005454,Thiothixene (USAN:USP)
+CID000003642,Hydrocortisone
+CID000001046,Pyrazinamide
+CID000001983,Acetaminophen
+CID000131536,Fosamprenavir
+CID000004178,Mexiletine
+CID000003198,Econazole
+CID000003928,Lincomycine
+CID000004542,Methylnorethindrone
+CID005311027,Bimatoprost
+CID000002142,Amikacin
+CID000508230,Mycophenolic Acid
+CID000110634,CID 110634
+CID000024486,Calcium chloride 6-hydrate
+CID000004674,Pamidronic Acid
+CID000004828,Pindolol
+CID000004428,Naltrexone
+CID000004064,Meprobamate
+CID000047320,Atracurium Besylate
+CID000071158,Acamprosate
+CID000002949,Desogestrel
+CID000001978,Acebutolol
+CID000000158,8-iso PROSTAGLANDIN E2
+CID000005771,Vasopressin
+CID000003461,Gemcitabine
+CID000004993,Pyrimethamine
+CID000054786,Treprostinil Impurity 19
+CID000000564,6-Aminohexanoic Acid
+CID000003724,Iodixanol
+CID000176168,Lanthanum carbonate--water (2/3/1)
+CID000004095,Methadone
+CID000004440,Naratriptan
+CID000060184,"2'-epi-Perindopril, (2'R)-"
+CID000024011,Selenium sulfide (SeS)
+CID000148211,"Palonosetron, (3aR)-"
+CID000000085,Betaine
+CID000003702,Indapamide
+CID000013342,Vinblastine
+CID000004834,Piperacillin
+CID000005466,Tipepidine
+CID000002099,Alosetron
+CID000123631,Gefitinib
+CID000002375,Bicalutamide
+CID000003117,Disulfiram
+CID000002646,Cefprozil
+CID000002512,Cabergoline
+CID000003114,Disopyramide
+CID000003414,Phosphonatoformate
+CID000003059,Diflunisal
+CID000148192,Atazanavir
+CID003062316,Dasatinib
+CID000002995,Desipramine
+CID000005878,Oxandrolone
+CID000002141,Amifostine
+CID000005381,Tazarotene
+CID000004771,Phentermine
+CID000060787,Atazanavir
+CID000060877,Emtricitabine
+CID000003827,Ketotifen
+CID000003821,Ketamine
+CID000002130,Amantadine
+CID000005453,Thiotepa
+CID000003373,Flumazenil
+CID000003372,Fluphenazine
+CID000002519,Caffeine
+CID000041317,Acitretin
+CID000115237,Paliperidone
+CID000005352,Sulindac
+CID000003040,Dicloxacillin
+CID000197712,"Ambrisentan, (A+-)-"
+CID000060164,Adapalene
+CID000004748,Perphenazine
+CID000004745,Pergolide
+CID000002478,Calcitriol
+CID000003278,Ethacrynic Acid
+CID000002622,Cefixime
+CID000003741,Ioversol
+CID000002610,Cefadroxil
+CID000004819,Pilocarpine
+CID000005593,Tropicamide
+CID000003914,(+-)-Bunolol
+CID000003784,Isradipine
+CID000014888,Arsenic Trioxide
+CID000002708,Chlorambucil
+CID000003397,Flutamide
+CID006436173,Rifaximin
+CID000000119,Gamma-Aminobutyric Acid
+CID001349907,Methimazole
+CID000004053,Sarcolysin
+CID000060612,Levomedetomidine
+CID000003964,Loxapine
+CID000004425,Naloxone
+CID000002274,Cefamandole
+CID000150310,Vincristine
+CID000005525,CI-907
+CID000004727,(+-)-Penicillamine
+CID000003384,Fluorometholone
+CID000002973,Deferoxamine
+CID000003494,Glycopyrronium
+CID000002349,Penicillins
+CID000002283,Leuprolide
+CID006435110,Ivermectin (USAN:USP:INN:BAN)
+CID000005297,Strept-omycin
+CID000005515,Topotecan
+CID000048175,Fluticasone Furoate
+CID000002637,Cefoxitin
+CID000027991,dAVP
+CID000002177,Amprenavir
+CID000060696,Dutasteride
+CID000004739,2'-Deoxycoformycin
+CID000077992,Frovatriptan
+CID000002019,Dactinomycin (USP)
+CID004659569,Tolcapone
+CID000004607,Oxacillin
+CID000005052,Hydroflumethiazide; reserpine
+CID000119182,Clofarabine
+CID000005215,Sulfadiazine
+CID000005486,Tirofiban
+CID000145068,Nitric Oxide
+CID000003637,Hydralazine
+CID000072938,Gemifloxacin
+CID000003382,Metosyn
+CID000004140,Isomethergine
+CID000004195,Midodrine
+CID000002215,(+-)-Apomorphine
+CID000000298,Chloramphenicol
+CID000444033,Ciclesonide
+CID000082146,Bexarotene
+CID000004932,Propafenone
+CID000002266,Azelaic Acid
+CID000002369,Betaxolol
+CID000002232,Argatroban
+CID005473385,Thioguanine
+CID000003291,Ethosuximide
+CID000002725,(+-)-Chlorpheniramine
+CID000002675,Ceftriaxone
+CID000004645,
+CID000004913,Procainamide
+CID000001134,Thymidine
+CID000071273,Ropivacaine
+CID000003562,Halothane
+CID000002551,Carbamylcholine
+CID000002727,Chlorpropamide
+CID000002673,Cefradin
+CID000002370,Bethanechol
+CID000039860,Nabilone
+CID000005721,Zanamivir
+CID000012620,Behenyl Alcohol
+CID000040976,Gestodene
+CID000005070,Riluzole
+CID000051634,Miglustat
+CID000003381,Dermatin (steroid)
+CID000002170,Amoxapine
+CID003086258,Verteporfin
+CID009571074,"(6R)-7-[[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-methoxyiminoacetyl]amino]-3-[(Z)-2-(4-methyl-1,3-thiazol-5-yl)ethenyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid"
+CID000004011,Maprotiline
+CID000002182,
+CID000005482,Tioconazole

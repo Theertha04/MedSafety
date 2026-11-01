@@ -1,0 +1,239 @@
+{
+  "CID000002244": "CC(=O)Oc1ccccc1C(=O)O",
+  "CID000005467": "CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O",
+  "CID000003345": "CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+  "CID000000247": "C[N+](C)(C)CC(=O)[O-]",
+  "CID000004091": "CN(C)C(=N)NC(=N)N",
+  "CID000003672": "CC(C)Cc1ccc(C(C)C(=O)O)cc1",
+  "CID000001983": "CC(=O)Nc1ccc(O)cc1",
+  "CID000002173": "CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O",
+  "CID000002519": "CN1C=NC2=C1C(=O)N(C(=O)N2C)C",
+  "name:aspirin": [
+    "CC(=O)Oc1ccccc1C(=O)O",
+    "CID000002244"
+  ],
+  "name:warfarin": [
+    "CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O",
+    "CID000005467"
+  ],
+  "name:fentanyl": [
+    "CCC(=O)N(c1ccccc1)C1CCN(CCc2ccccc2)CC1",
+    "CID000003345"
+  ],
+  "name:betaine": [
+    "C[N+](C)(C)CC(=O)[O-]",
+    "CID000000247"
+  ],
+  "name:acetylsalicylic acid": [
+    "CC(=O)Oc1ccccc1C(=O)O",
+    "CID000002244"
+  ],
+  "name:metformin": [
+    "CN(C)C(=N)NC(=N)N",
+    "CID000004091"
+  ],
+  "name:ibuprofen": [
+    "CC(C)Cc1ccc(C(C)C(=O)O)cc1",
+    "CID000003672"
+  ],
+  "name:paracetamol": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "name:acetaminophen": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "name:ampicillin": [
+    "CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O",
+    "CID000002173"
+  ],
+  "name:caffeine": [
+    "CN1C=NC2=C1C(=O)N(C(=O)N2C)C",
+    "CID000002519"
+  ],
+  "CID00003345": "CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3",
+  "CID000001117": "[O-]S(=O)(=O)[O-]",
+  "CID000004053": "C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl",
+  "CID000004736": "CC1C2CC3=C(C1(CCN2CC=C(C)C)C)C=C(C=C3)O",
+  "CID000004595": "CC1=NC=CN1CC2CCC3=C(C2=O)C4=CC=CC=C4N3C",
+  "CID000000143": "C1C(N(C2=C(N1)NC(=NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O",
+  "CID000002678": "C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+  "CID000000937": "C1=CC(=CN=C1)C(=O)[O-]",
+  "name:dlo": [
+    "C(CCC[NH-])CCN.C(CCC[NH-])CCN.C(CCC[NH-])CC[NH-].C(CCC[NH-])CC[NH-].[NH2-].[NH2-].[NH2-].[NH2-].[NH2-].[NH2-].[Pt+4].[Pt+4].[Pt+4]",
+    "CID179009846"
+  ],
+  "CID179009846": "C(CCC[NH-])CCN.C(CCC[NH-])CCN.C(CCC[NH-])CC[NH-].C(CCC[NH-])CC[NH-].[NH2-].[NH2-].[NH2-].[NH2-].[NH2-].[NH2-].[Pt+4].[Pt+4].[Pt+4]",
+  "name:calpol": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "name:dolo": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "name:dolo 650": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "name:dolo-650": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "name:crocin": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "name:panadol": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "name:tylenol": [
+    "CC(=O)Nc1ccc(O)cc1",
+    "CID000001983"
+  ],
+  "CID00001983": "CC(=O)NC1=CC=C(C=C1)O",
+  "CID000000119": "C(CC(=O)O)CN",
+  "CID000002617": "CC1=NN=C(S1)SCC2=C(N3C(C(C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)[O-]",
+  "name:mda": [
+    "CC(CC1=CC2=C(C=C1)OCO2)N",
+    "CID00001614"
+  ],
+  "CID00001614": "CC(CC1=CC2=C(C=C1)OCO2)N",
+  "CID000001206": "CC(CC1=CC=CC=C1)NC",
+  "name:coc": [
+    "CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC",
+    "CID00446220"
+  ],
+  "CID00446220": "CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC",
+  "name:coca": [
+    "CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC",
+    "CID00446220"
+  ],
+  "name:cri": [
+    "CC1=CC=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(=O)N(C)C)C3=CC=C(C=C3)C(=O)NO",
+    "CID05287979"
+  ],
+  "CID05287979": "CC1=CC=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(=O)N(C)C)C3=CC=C(C=C3)C(=O)NO",
+  "name:nexit": [
+    "C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl",
+    "CID00000727"
+  ],
+  "CID00000727": "C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl",
+  "name:cetrizine": [
+    "C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+    "CID00002678"
+  ],
+  "CID00002678": "C1CN(CCN1CCOCC(=O)O)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+  "name:min": [
+    "CN[C@H](CC1=CC=CC=C1)C(=O)N2CCC[C@H]2C(=O)NCC3CCC(CC3)N",
+    "CID00448763"
+  ],
+  "CID00448763": "CN[C@H](CC1=CC=CC=C1)C(=O)N2CCC[C@H]2C(=O)NCC3CCC(CC3)N",
+  "CID000004201": "C1CCN(CC1)C2=NC(=N)N(C(=C2)N)O",
+  "name:mino": [
+    "CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C",
+    "CID54675783"
+  ],
+  "CID54675783": "CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C",
+  "name:fin": [
+    "CC(C)[C@H](NS(=O)(=O)C1=CC=C(C=C1)C2=CC=C(C=C2)OC)P(=O)(O)O",
+    "CID06852147"
+  ],
+  "CID06852147": "CC(C)[C@H](NS(=O)(=O)C1=CC=C(C=C1)C2=CC=C(C=C2)OC)P(=O)(O)O",
+  "name:finasteride": [
+    "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC[C@@H]4[C@@]3(C=CC(=O)N4)C",
+    "CID00057363"
+  ],
+  "CID00057363": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC[C@@H]4[C@@]3(C=CC(=O)N4)C",
+  "name:pacimol": [
+    "CC(=O)NC1=CC=C(C=C1)O",
+    "CID00001983"
+  ],
+  "CID000004425": "C=CCN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O",
+  "CID000004253": "CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O",
+  "CID000003324": "CC(=O)OCC(CCN1C=NC2=CN=C(N=C21)N)COC(=O)C",
+  "CID000000815": "C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)O)O)OC3C(C(C(C(O3)CO)O)N)O)N",
+  "name:lora": [
+    "CC(CC(C)(C)O)OC(C(Cl)(Cl)Cl)O",
+    "CID00019094"
+  ],
+  "CID00019094": "CC(CC(C)(C)O)OC(C(Cl)(Cl)Cl)O",
+  "name:para": [
+    "C1=CC(=CC=C1N)N",
+    "CID00007814"
+  ],
+  "CID00007814": "C1=CC(=CC=C1N)N",
+  "CID000003957": "CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1",
+  "CID000002083": "CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O",
+  "CID000002171": "CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=C(C=C3)O)N)C(=O)O)C",
+  "CID000005206": "C(OC(C(F)(F)F)C(F)(F)F)F",
+  "CID000004601": "CC1=CC=CC=C1C(C2=CC=CC=C2)OCCN(C)C",
+  "CID000002153": "CN1C2=C(C(=O)N(C1=O)C)NC=N2",
+  "name:cocaine": [
+    "CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC",
+    "CID00446220"
+  ],
+  "CID000002462": "CCCC1OC2CC3C4CCC5=CC(=O)C=CC5(C4C(CC3(C2(O1)C(=O)CO)C)O)C",
+  "CID000001134": "CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O",
+  "name:lev": [
+    "COC1=CC2=NC=CC(=C2C=C1C(=O)N)OC3=CC(=C(C=C3)NC(=O)NC4CC4)Cl",
+    "CID09823820"
+  ],
+  "CID09823820": "COC1=CC2=NC=CC(=C2C=C1C(=O)N)OC3=CC(=C(C=C3)NC(=O)NC4CC4)Cl",
+  "name:par": [
+    "C[C@@H]1[C@H](C[C@H](C(O1)O)O)O",
+    "CID12303783"
+  ],
+  "CID12303783": "C[C@@H]1[C@H](C[C@H](C(O1)O)O)O",
+  "name:warf": [
+    "CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O",
+    "CID54678486"
+  ],
+  "CID54678486": "CC(=O)CC(C1=CC=CC=C1)C2=C(C3=CC=CC=C3OC2=O)O",
+  "CID0000054678": "CCC[NH+]1CCOC2C1CC3=CNC4=CC=CC2=C34.[Cl-]",
+  "CID000003016": "CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3",
+  "CID000150610": "C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)C(=O)NC4=CC=CC(=C4)C(=O)O)C(=O)O)[C@@H](C)O",
+  "CID000001302": "CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O",
+  "CID005281104": "C[C@H](/C=C/[C@H](C)C(C)(C)O)[C@H]1CC[C@@H]\\2[C@@]1(CCC/C2=C\\C=C3C[C@H](C[C@@H](C3)O)O)C",
+  "CID000000206": "C(C1C(C(C(C(O1)O)O)O)O)O",
+  "CID000002283": "CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCN)CCCCNC(=O)C(C(C)CC)NC(=O)C(CCC(=O)O)NC(=O)C(CC(C)C)NC(=O)C2CSC(=N2)C(C(C)CC)N)CC(=O)N)CC(=O)O)CC3=CN=CN3)CC4=CC=CC=C4",
+  "CID000000564": "C(CCC(=O)O)CCN",
+  "CID000003821": "CNC1(CCCCC1=O)C2=CC=CC=C2Cl",
+  "CID000004583": "CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O",
+  "CID000003823": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OCC3COC(O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+  "CID000160051": "CCCCCCCCCCNCC=C.C[N+](C)(C)CCCCCCNCC=C.C=CCN.C1C(O1)CCl.Cl.[Cl-]",
+  "name:gaba": [
+    "C(CC(=O)O)CN",
+    "CID00000119"
+  ],
+  "CID00000119": "C(CC(=O)O)CN",
+  "CID000000581": "CC(=O)NC(CS)C(=O)O",
+  "CID000003478": "CC1=CN=C(C=N1)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCCCC3",
+  "name:atorvastatin": [
+    "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4",
+    "CID00060823"
+  ],
+  "CID00060823": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4",
+  "CID000002269": "CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O",
+  "CID000000085": "C[N+](C)(C)CC(CC(=O)O)O",
+  "CID000000159": "CCCCCC(C=CC1C(CC2C1CC(=CCCCC(=O)O)O2)O)O",
+  "CID000000444": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C",
+  "CID000003203": "C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+  "CID000001065": "COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O",
+  "2617": "CC1=NN=C(S1)SCC2=C(N3C(C(C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)[O-]",
+  "CID000000450": "CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O",
+  "CID000000453": "C(C(C(C(C(CO)O)O)O)O)O",
+  "CID000002019": "CC1C(C(=O)NC(C(=O)N2CCCC2C(=O)N(CC(=O)N(C(C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)NC6C(OC(=O)C(N(C(=O)CN(C(=O)C7CCCN7C(=O)C(NC6=O)C(C)C)C)C)C(C)C)C)N)C",
+  "name:dactinomycin": [
+    "C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N(CC(=O)N([C@H](C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)N[C@H]6[C@H](OC(=O)[C@@H](N(C(=O)CN(C(=O)[C@@H]7CCCN7C(=O)[C@H](NC6=O)C(C)C)C)C)C(C)C)C)N)C",
+    "CID00457193"
+  ],
+  "CID00457193": "C[C@@H]1[C@@H](C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N(CC(=O)N([C@H](C(=O)O1)C(C)C)C)C)C(C)C)NC(=O)C3=C4C(=C(C=C3)C)OC5=C(C(=O)C(=C(C5=N4)C(=O)N[C@H]6[C@H](OC(=O)[C@@H](N(C(=O)CN(C(=O)[C@@H]7CCCN7C(=O)[C@H](NC6=O)C(C)C)C)C)C(C)C)C)N)C",
+  "name:dac": [
+    "C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O",
+    "CID00451668"
+  ],
+  "CID00451668": "C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O"
+}
